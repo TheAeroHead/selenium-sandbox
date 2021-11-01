@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4203" started-at="2021-11-01T20:08:20Z" finished-at="2021-11-01T20:08:24Z">
+    <groups>
+      <group name="google">
+        <method signature="App.testGoogleSearch()[pri:0, instance:selenium.sandbox.App@56de5251]" name="testGoogleSearch" class="selenium.sandbox.App"/>
+      </group> <!-- google -->
+    </groups>
+    <test name="Default test" duration-ms="4203" started-at="2021-11-01T20:08:20Z" finished-at="2021-11-01T20:08:24Z">
+      <class name="selenium.sandbox.App">
+        <test-method status="PASS" signature="testGoogleSearch()[pri:0, instance:selenium.sandbox.App@56de5251]" name="testGoogleSearch" duration-ms="4200" started-at="2021-11-01T15:08:20Z" finished-at="2021-11-01T15:08:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleSearch -->
+      </class> <!-- selenium.sandbox.App -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
